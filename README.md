@@ -1,5 +1,5 @@
 # HTML
-<img src = "https://icon2.cleanpng.com/20180614/xpb/kisspng-html5-video-web-development-cascading-style-sheets-social-developmnet-5b22567f7be971.3088426515289770235076.jpg" height = "50vh" weight = "100%" float = " center" >
+<img src = "https://icon2.cleanpng.com/20180614/xpb/kisspng-html5-video-web-development-cascading-style-sheets-social-developmnet-5b22567f7be971.3088426515289770235076.jpg" height = "100vh" weight = "200%" margin = "auto" >
 
 HTML (HyperText Markup Language) is the standard language used to create and design webpages. It structures web content using tags and elements
 
