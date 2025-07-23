@@ -1,4 +1,5 @@
 # HTML
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
 
 HTML (HyperText Markup Language) is the standard language used to create and design webpages. It structures web content using tags and elements
 
