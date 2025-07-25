@@ -1,5 +1,5 @@
 # HTML Master Guide 
-<img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" alt="HTML Logo" height="10vh" >
+<img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" alt="HTML Logo" height="50vh" weight="30%" >
 
 **HTML (HyperText Markup Language) is the standard language used to create and design webpages. It structures web content using tags and elements**
 
