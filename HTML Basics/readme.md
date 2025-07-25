@@ -30,6 +30,7 @@ The < img > tag in HTML has several attributes that allow you to control the sou
 3.height=""
 4.width=""
 5.title=""
+
 ```
 <img src="https://github.com/avityagii" alt="Avi Tyagi Github Profile">
 ```
@@ -67,23 +68,28 @@ the < input > tag is used to create various types of form controls or input fiel
 
 <h3>Order list and Type [1,A,a,i,I] [start="101"]</h3>
 <hr>
+
 ```
 <ol>
   <li>List Item</li>
   <li>List Item</li>
 </ol>
 ```
+
 <h3>Unorder list And Type [ disk , circle , square , none ]</h3>
 <hr>
+
 ```
 <ul>
   <li>List Item</li>
   <li>List Item</li>
 </ul>
 ```
+
 <h3>Description List</h3>
 <hr>
 dl : defines the description dt : defines the term (name) dd : describes each term in a description list
+
 ```
 <dl>
   <dt>html</dt>
